@@ -2,7 +2,7 @@
 Interactive Power BI dashboard for skincare brand analysis
 
 ## Dashboard preview
-![Skincare Brand Dashboard](skincarebranddashboard.png)
+![Skincare Brand Dashboard](skincare%20brand%20dashboard.png)
 
 ## Project Overview
 
