@@ -1,6 +1,9 @@
 # Skin-Care-Brand-Analysis-PowerBI
 Interactive Power BI dashboard for skincare brand analysis
 
+## Dashboard preview
+![Skincare Brand Dashboard](skincarebranddashboard.png)
+
 ## Project Overview
 
 This Power BI dashboard analyzes skincare brands using interactive visualizations and KPIs. It provides insights into product performance, customer reviews, ratings, pricing, and category-wise analysis.
